@@ -48,7 +48,7 @@
         <mxCell id="-UQGtxKa_-4kIm8BEKnz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" source="-UQGtxKa_-4kIm8BEKnz-1" target="-UQGtxKa_-4kIm8BEKnz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-UQGtxKa_-4kIm8BEKnz-1" value="Already&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Power On ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="-UQGtxKa_-4kIm8BEKnz-1" value="Test Setup Already&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Power On ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="300" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UQGtxKa_-4kIm8BEKnz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="-UQGtxKa_-4kIm8BEKnz-13" edge="1">
@@ -56,7 +56,7 @@
             <mxPoint x="240" y="840" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UQGtxKa_-4kIm8BEKnz-2" value="FEMB Checkout Implement [120 s]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Register Scan&lt;/div&gt;&lt;div&gt;Power Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pedestal and RMS&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SE ON Pulse&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DIFF Pulse&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Monitoring Path&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Backup Power Rail&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;[Adapter Board Test will be implemented in Final checkout at QC]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="-UQGtxKa_-4kIm8BEKnz-2" value="FEMB Checkout Implement [120 s]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Register Scan&lt;/div&gt;&lt;div&gt;Power Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pedestal and RMS&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SE ON Pulse&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DIFF Pulse&lt;/div&gt;&lt;div&gt;Power Rail and Scan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Monitoring Path&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Backup Power Rail&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;[Remove Adapter Board Test will be implemented in Final checkout at QC]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="320" height="400" as="geometry" />
         </mxCell>
         <mxCell id="-UQGtxKa_-4kIm8BEKnz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" source="-UQGtxKa_-4kIm8BEKnz-3" target="-UQGtxKa_-4kIm8BEKnz-4" edge="1">
@@ -96,36 +96,45 @@
         <mxCell id="1" parent="0" />
         <mxCell id="x1TnxTCswKe7sEmCzJ45-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="340" as="sourcePoint" />
-            <mxPoint x="240" y="360" as="targetPoint" />
+            <mxPoint x="760" y="420" as="sourcePoint" />
+            <mxPoint x="760" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-7" target="x1TnxTCswKe7sEmCzJ45-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-7" value="Pick up WIB with ESD straps" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="320" height="40" as="geometry" />
+          <mxGeometry x="600" y="120" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" edge="1" parent="1" target="x1TnxTCswKe7sEmCzJ45-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="240" as="sourcePoint" />
-            <mxPoint x="240" y="300" as="targetPoint" />
+            <mxPoint x="760" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;align=left;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-9" target="x1TnxTCswKe7sEmCzJ45-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-9" value="Scan QR ID of the WIB Boards and Visual Inspection" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="320" height="40" as="geometry" />
+          <mxGeometry x="600" y="200" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-14" value="Package Boards with ESD Bag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="320" height="40" as="geometry" />
+          <mxGeometry x="600" y="520" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-15" value="Install WIB Board into the Test Setup" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="320" height="40" as="geometry" />
+          <mxGeometry x="600" y="280" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-17" value="LT Power Program" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="320" height="40" as="geometry" />
+          <mxGeometry x="600" y="360" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bF5WbzLpi_rxBWL8xg7a-1" value="Take Pictures" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXFPWJsVfqa6NoCJLkx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="JmXFPWJsVfqa6NoCJLkx-1" target="x1TnxTCswKe7sEmCzJ45-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXFPWJsVfqa6NoCJLkx-1" value="LT Power Program" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
