@@ -54,7 +54,7 @@
         <mxCell id="-UQGtxKa_-4kIm8BEKnz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="-UQGtxKa_-4kIm8BEKnz-2" target="-UQGtxKa_-4kIm8BEKnz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-UQGtxKa_-4kIm8BEKnz-2" value="FEMB Checkout" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-UQGtxKa_-4kIm8BEKnz-2" value="FEMB Checkout Implement [120 s]" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-UQGtxKa_-4kIm8BEKnz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="-UQGtxKa_-4kIm8BEKnz-3" target="-UQGtxKa_-4kIm8BEKnz-4">
