@@ -100,11 +100,13 @@
             <mxPoint x="240" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1TnxTCswKe7sEmCzJ45-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-5" target="x1TnxTCswKe7sEmCzJ45-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x1TnxTCswKe7sEmCzJ45-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-5" target="-BoibJrmjCquZ4XWK0AQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="x1TnxTCswKe7sEmCzJ45-5" value="WIB Checkout Implement [60 s]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SD card boot Test&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Power Measurement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UART Connection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TCP/IP Connection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UDP Connection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Generate Reception Checkout Report&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="281" width="320" height="280" as="geometry" />
+        <mxCell id="x1TnxTCswKe7sEmCzJ45-5" value="WIB Checkout Implement [60 s]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SD card boot Test&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power Measurement&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UART Connection&lt;/div&gt;&lt;div&gt;TCP/IP Connection&lt;/div&gt;&lt;div&gt;UDP Connection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Generate Reception Checkout Report&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="281" width="320" height="199" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="x1TnxTCswKe7sEmCzJ45-7" target="x1TnxTCswKe7sEmCzJ45-9">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +127,7 @@
           <mxGeometry x="80" y="281" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-14" value="Package Boards with ESD Bag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="601" width="320" height="40" as="geometry" />
+          <mxGeometry x="520" y="601" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-15" value="Install WIB Board into the Test Setup" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="361" width="320" height="40" as="geometry" />
@@ -149,7 +151,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x1TnxTCswKe7sEmCzJ45-20" value="Insert Test Widgets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="201" width="320" height="40" as="geometry" />
+          <mxGeometry x="520" y="201" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-BoibJrmjCquZ4XWK0AQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="-BoibJrmjCquZ4XWK0AQ-2" target="x1TnxTCswKe7sEmCzJ45-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-BoibJrmjCquZ4XWK0AQ-2" value="Remove Test Widgets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="521" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
