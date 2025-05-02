@@ -189,11 +189,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jZaTBG413mGB9T1UnAkj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="pe2N6PO_nUNQrEvKNxLT-19">
+        <mxCell id="jZaTBG413mGB9T1UnAkj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300.0000000000002" y="780" as="targetPoint" />
+            <mxPoint x="660" y="701" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="860" y="740" />
+              <mxPoint x="660" y="701" />
+              <mxPoint x="660" y="740" />
               <mxPoint x="300" y="740" />
             </Array>
           </mxGeometry>
@@ -206,7 +208,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe2N6PO_nUNQrEvKNxLT-19" value="&lt;font&gt;WIB QC [SBU, BU]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="pe2N6PO_nUNQrEvKNxLT-19" value="&lt;font&gt;WIB QC [SBU, BU]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="20" width="760" height="680" as="geometry" />
         </mxCell>
         <mxCell id="pe2N6PO_nUNQrEvKNxLT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1" source="pe2N6PO_nUNQrEvKNxLT-18" target="pe2N6PO_nUNQrEvKNxLT-19">
@@ -221,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe2N6PO_nUNQrEvKNxLT-18" value="&lt;font&gt;Reception Checkout [BNL]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pe2N6PO_nUNQrEvKNxLT-18" value="&lt;font&gt;Reception Checkout [BNL]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=24;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="360" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rZi2FCJkjRqMSrU8-2pk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;strokeWidth=2;align=left;" edge="1" parent="1" source="rZi2FCJkjRqMSrU8-2pk-10">
@@ -333,10 +335,10 @@
         <mxCell id="jZaTBG413mGB9T1UnAkj-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="pe2N6PO_nUNQrEvKNxLT-17" target="pe2N6PO_nUNQrEvKNxLT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jZaTBG413mGB9T1UnAkj-3" value="&lt;span style=&quot;background-color: rgb(102, 178, 255);&quot;&gt;Report updated to HWDB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+        <mxCell id="jZaTBG413mGB9T1UnAkj-3" value="&lt;span style=&quot;background-color: rgb(102, 178, 255);&quot;&gt;Report updated to HWDB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="780" width="540" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jZaTBG413mGB9T1UnAkj-4" value="&lt;span&gt;Production Sent to FD1 and FD2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+        <mxCell id="jZaTBG413mGB9T1UnAkj-4" value="&lt;span&gt;Production Sent to FD1 and FD2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="700" y="780" width="540" height="40" as="geometry" />
         </mxCell>
       </root>
