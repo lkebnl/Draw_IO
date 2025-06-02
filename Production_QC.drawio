@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="kzZ9UD59wHyEcjwjnaLz">
-    <mxGraphModel>
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5cuMY69TC_ofjjujHGTF-1" value="Production Strategy for Cryogenic Readout Electronics in DUNE" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-3" value="Abstract" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-4" value="Introduction" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-5" value="Hardware Design of the Monolithic FEMB" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-6" value="Quality Control Implementation" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="80" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-7" value="Conclusion" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="160" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-8" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;purpose and system-level role of FEMB&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-9" value="induce: Requirement of CE, FEMB mount at the electrode and readout analog pulse directly in the LAr [effort of many years]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-10" value="why and what is monolithic [compared with before, a new version], high integrated, very predigest to make it stability [advantage]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-12" value="Production Scale: channels, numbers， data process route" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-13" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;CE Design structure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-14" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Overview of FEMB Topology&lt;/span&gt;&lt;div&gt;with many years effort, the FEMB is designed with 3-ASIC structure, much simple, much stability, high consistent, low noise, easy install, can be monite&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-15" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Three-ASIC Architecture for Signal Readout&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Readout Path&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-16" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Key Expected performance [as an induction to the QC requirement]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Combine with test performance&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-17" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Control and Configuration structure&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Communication Path&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-18" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Power Distribution and LDO Architecture&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;line-height:107%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;DengXian;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Power Rail&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5cuMY69TC_ofjjujHGTF-19" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Analog Monitoring Infrastructure&lt;/span&gt;&lt;/font&gt;&lt;div&gt;Status Monitoring path&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="600" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
