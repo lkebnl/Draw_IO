@@ -39,16 +39,16 @@
         <mxCell id="IJNpQN5q4k0EAUG8z14c-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-18" value="C_R11 = 65 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-19" value="C_R4 = 69 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-20" value="C_R10 = 72.3 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-21" value="C_R7 = 77 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJNpQN5q4k0EAUG8z14c-22" value="C_R1 = 82 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
