@@ -165,10 +165,10 @@
         <mxCell id="IJNpQN5q4k0EAUG8z14c-64" value="C_L3 = 31.2 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-65" value="C_L13 = 29 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-65" value="C_R3 = 130 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJNpQN5q4k0EAUG8z14c-66" value="C_R6 = 61 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJNpQN5q4k0EAUG8z14c-66" value="C_R6 = 135 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJNpQN5q4k0EAUG8z14c-67" value="C_R12 = 141 pF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
