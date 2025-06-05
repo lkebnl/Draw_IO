@@ -303,16 +303,16 @@
         <mxCell id="N27Ji0TYMggr7xTfJhDZ-10" value="C_R4 = 177 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="920" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N27Ji0TYMggr7xTfJhDZ-11" value="C_R10 = 150 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="N27Ji0TYMggr7xTfJhDZ-11" value="C_R10 = 190 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N27Ji0TYMggr7xTfJhDZ-12" value="C_R13 = 158 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="N27Ji0TYMggr7xTfJhDZ-12" value="C_R7 = 205 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N27Ji0TYMggr7xTfJhDZ-13" value="C_R14 = 165 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="N27Ji0TYMggr7xTfJhDZ-13" value="C_R1 = 218 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N27Ji0TYMggr7xTfJhDZ-14" value="C_R15 = 165 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="N27Ji0TYMggr7xTfJhDZ-14" value="C_R15 = 218 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
