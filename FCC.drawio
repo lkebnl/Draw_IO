@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfLGe3TqiMsQr_PDc6x-" name="Page-2">
-    <mxGraphModel dx="1965" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="462" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
         <mxCell id="tlb5JWs5iVgdd9dni9B5-14" value="C_R15 = 203 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tlb5JWs5iVgdd9dni9B5-15" value="C_R9 = 95 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="tlb5JWs5iVgdd9dni9B5-15" value="C_R9 = 186 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="-840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tlb5JWs5iVgdd9dni9B5-16" value="C_R2 = 79 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
