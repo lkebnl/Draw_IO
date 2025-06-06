@@ -432,13 +432,13 @@
         <mxCell id="tlb5JWs5iVgdd9dni9B5-11" value="C_R12 = 178 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tlb5JWs5iVgdd9dni9B5-12" value="C_R13 = 205 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="tlb5JWs5iVgdd9dni9B5-12" value="C_R13 = 192 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tlb5JWs5iVgdd9dni9B5-13" value="C_R14 = 218 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="tlb5JWs5iVgdd9dni9B5-13" value="C_R14 = 203 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tlb5JWs5iVgdd9dni9B5-14" value="C_R15 = 219 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="tlb5JWs5iVgdd9dni9B5-14" value="C_R15 = 203 pF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
