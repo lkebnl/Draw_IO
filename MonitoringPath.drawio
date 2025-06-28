@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="2pqvIUxyZPfxGN9ig-f2">
-    <mxGraphModel>
+    <mxGraphModel dx="921" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="elYs_1FvjlinROCt5FcH-1" value="Monitoring Path" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elYs_1FvjlinROCt5FcH-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;LArASIC&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;1 Analog Pulse&lt;/div&gt;&lt;div&gt;2 Temperature&lt;/div&gt;&lt;div&gt;3 Bandgap&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="elYs_1FvjlinROCt5FcH-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ColdADC * 8&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Reference Voltage&lt;/font&gt;&lt;br&gt;&lt;div&gt;1 VREFP [1.95 V]&lt;/div&gt;&lt;div&gt;2 VREFN [0.45 V]&lt;/div&gt;&lt;div&gt;3 VCMI&amp;nbsp; &amp;nbsp; [0.9 V]&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4 VCMO&amp;nbsp; [1.2 V]&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="elYs_1FvjlinROCt5FcH-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;LDO output&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CDVDDA [1.2 V]&lt;/div&gt;&lt;div&gt;CDVDDO [2.25 V]&lt;/div&gt;&lt;div&gt;ADCVDDD [1.1 V]&lt;/div&gt;&lt;div&gt;ADCVDDP [2.25 V]&lt;/div&gt;&lt;div&gt;FEVDDP [1.7 V]&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="elYs_1FvjlinROCt5FcH-11" value="&lt;table class=&quot;NormalTable&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width=&quot;200&quot; style=&quot;border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;&quot;&gt;&lt;span class=&quot;fontstyle0&quot;&gt;VDDA2P5 is reduced by 250 mV relative to nominal for thick-oxide devices in to reduce voltage stress (hot electron effects) and increase reliability.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; &#xa;&lt;br style=&quot;font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="200" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
