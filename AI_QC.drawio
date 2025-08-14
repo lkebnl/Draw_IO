@@ -204,6 +204,9 @@
         <mxCell id="Bs8sOTtwTtZL6Nc3k9Rm-65" value="&lt;div&gt;B0&lt;/div&gt;Pin_3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CwXSrP7e0WJrk8L3bupj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bs8sOTtwTtZL6Nc3k9Rm-67" target="Bs8sOTtwTtZL6Nc3k9Rm-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bs8sOTtwTtZL6Nc3k9Rm-67" value="A&lt;div&gt;Pin_4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="680" width="40" height="40" as="geometry" />
         </mxCell>
@@ -278,6 +281,12 @@
         </mxCell>
         <mxCell id="CwXSrP7e0WJrk8L3bupj-4" value="B1&lt;div&gt;Pin_1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwXSrP7e0WJrk8L3bupj-9" value="R1116" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CwXSrP7e0WJrk8L3bupj-10" value="R1117" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
