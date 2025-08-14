@@ -258,6 +258,9 @@
         <mxCell id="Bs8sOTtwTtZL6Nc3k9Rm-86" value="FMB_CONTROL1_U2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="880" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CwXSrP7e0WJrk8L3bupj-1" value="U49" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
