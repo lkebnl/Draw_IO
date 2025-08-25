@@ -198,57 +198,182 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ngcXhK41Y2sFbRl8syXh" name="Page-4">
-    <mxGraphModel dx="3450" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-2" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt; Control PC / Host&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Orchestration &amp;amp; Access&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Configuration &amp;amp; Automation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Data Utilities (commissioning/QC)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Data Analysis and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Performance Evaluation&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1200" width="320" height="120" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-69" value="XCZU6CGFFVB1156&amp;nbsp; &amp;nbsp; PS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;verticalAlign=top;align=left;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="840" width="420" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-3" value="FE I2C Control Module" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1780" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-70" value="&amp;nbsp; &amp;nbsp; PL" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;verticalAlign=top;align=left;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="840" width="530" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-4" value="FAST Command (SYNC/EDGE)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1540" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-45" target="rurXwxzGvPPVLSdpdCYD-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1280" />
+              <mxPoint x="770" y="1440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-5" value="Hermes IP / MAC" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1260" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-12" target="rurXwxzGvPPVLSdpdCYD-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-6" value="SPY BUFFER Readout Control" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1660" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PS Control Interface&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-7" value="WIB Monitoring Readout Control" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1700" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-2" target="rurXwxzGvPPVLSdpdCYD-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-8" value="Calibration Pulse Generator" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1580" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-2" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt; Control PC / Host&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Orchestration &amp;amp; Access&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Configuration &amp;amp; Automation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Data Utilities (commissioning/QC)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Data Analysis and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Evaluation&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="880" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-9" value="FrameBuilder Reset" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1620" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-5" value="PS/Linux TCP/IP Stack (SSH, RPC, REST)&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="920" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-10" value="PS/Linux TCP/IP Stack (SSH, RPC)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1310" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-10" value="Control Script Integration / Config Table&amp;nbsp;&amp;nbsp;(Python Based)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-11" value="HERMES (10GbE) → GTH SerDes [UDP]" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1360" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-11" value="Aggregated status readback &amp;amp; logging" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1000" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-12" value="Timing Controller [From PTC DTS Master]" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1410" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-14" target="rurXwxzGvPPVLSdpdCYD-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;DAQ&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • DAQ‑RC: Run Control / CCM&amp;nbsp; (Control Plane, TCP/IP)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • DAQ‑DR: Data Receiver / Builder&amp;nbsp; (Data Plane, UDP)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1400" width="320" height="80" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;DAQ&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • DAQ‑RC: Run Control / CCM&amp;nbsp; (Control Plane, TCP/IP)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • DAQ‑DR: Data Receiver / Builder&amp;nbsp; (Data Plane, UDP)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1380" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt; PTS &lt;/span&gt;&lt;font&gt;(Power &amp;amp; Timing System / PTC board)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; • Timing Path (from DTS Master)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Power/Monitoring Path (I²C, multi-master)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1560" width="320" height="80" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt; PTB &lt;/span&gt;&lt;font&gt;(Power &amp;amp; Timing Board)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; • Timing Path (from DTS Master)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; • Power/Monitoring Path (I²C, multi-master)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; • Slot select&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1160" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-17" value="PS Software" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1500" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PS Command Library (C++ Based)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1080" width="360" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-18" value="FEMB Monitoring Readout Control" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1740" width="260" height="20" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-23" value="FE I²C Control Module (ColdADC/COLDATA configuration)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1140" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rurXwxzGvPPVLSdpdCYD-19" value="PS-NB (Northbound Control Interface Layer) || PC/RC interface, network   |&#xa; |                                                                             |&#xa; |  • PS/Linux TCP/IP Stack (SSH, RPC, REST)                                   |&#xa; |  • Control Script Integration / Config Table                                |&#xa; |  • Aggregated status readback &amp; logging (Spy/monitoring/alarm summary)      |&#xa; └──────────────────────────────────────────────────────────────────────────┘&#xa;                      │  Commands &amp; configuration (logic) │&#xa;                      ▼&#xa; ┌──────────────────────────────────────────────────────────────────────────┐&#xa; | PS-SB (Southbound Hardware Orchestration Layer) || via AXI/I²C/registers |&#xa; |    to implement commands in PL/FEMB                                       |&#xa; |                                                                             |&#xa; |  • FE I²C Control Module (ColdADC/COLDATA configuration)                   |&#xa; |  • FAST Command (SYNC/EDGE/ACT/RESET)                                      |&#xa; |  • Calibration Pulse Generator                                             |&#xa; |  • FrameBuilder Reset (fb_reset 1→0)                                       |&#xa; |  • SPY BUFFER Readout Control (trigger/read)                               |&#xa; |  • WIB Monitoring Readout Control (on-board monitoring ADCs)               |&#xa; |  • FEMB Monitoring Readout Control (FEMB analog monitor ADCs)              |&#xa; |  • Hermes IP/MAC/Port configuration                                        |&#xa; |  • Timing Controller parameters/reset (coordinated with DTS)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1120" width="560" height="330" as="geometry" />
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-25" value="Calibration Pulse Generator&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-26" value="FAST Command (SYNC/EDGE/ACT/RESET)&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1180" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-28" value="FrameBuilder Reset (fb_reset 1→0)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1260" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-29" value="SPY BUFFER Readout Control (trigger/read)&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1300" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-30" value="WIB Monitoring Readout (on-board monitoring ADCs)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1340" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-31" value="FEMB Monitoring Readout (FEMB analog monitor ADCs)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1380" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-32" value="Hermes IP/MAC/Port configuration" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1420" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-33" target="rurXwxzGvPPVLSdpdCYD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-33" value="Timing Controller parameters/reset (coordinated with DTS)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1220" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-40" value="AXI BUS" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-270;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1180" width="622.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-42" target="rurXwxzGvPPVLSdpdCYD-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;COLDATA&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Receivers * 16&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;[4FEMB * 2 COLDATA * 2 Links]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1380" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-43" target="rurXwxzGvPPVLSdpdCYD-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-43" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;COLDATA&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Frame Decoders* 16&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;[4 FEMB * 2 COLDATA * 2 Links]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1380" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-44" target="rurXwxzGvPPVLSdpdCYD-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;strokeWidth=3;" edge="1" parent="1" target="rurXwxzGvPPVLSdpdCYD-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="1190" />
+              <mxPoint x="890" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DAQ Frame Builders * 8&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;[4 FEMB * 2 COLDATA]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060.5" y="1220" width="179.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-45" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 20px;&quot;&gt;&lt;b&gt;HERMES&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;10G Ethernet&amp;nbsp; [UDP] Transmitters * 2&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1220" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.002;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#7EA6E0;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-40" target="rurXwxzGvPPVLSdpdCYD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-55" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;DAQ spy Buffers&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;* 8&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1040" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-56" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;COLDATA I2C Interfaces * 8&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1040" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;COLDATA FAST Command Generator&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="880" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-58" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;I2C Interface&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.355;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#67AB9F;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-55" target="rurXwxzGvPPVLSdpdCYD-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#67AB9F;strokeWidth=3;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="742" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.212;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#67AB9F;startArrow=classic;startFill=1;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-57" target="rurXwxzGvPPVLSdpdCYD-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="940" />
+              <mxPoint x="1020" y="1011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.242;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#67AB9F;strokeWidth=3;" edge="1" parent="1" source="rurXwxzGvPPVLSdpdCYD-56" target="rurXwxzGvPPVLSdpdCYD-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1100" />
+              <mxPoint x="1020" y="1029" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-64" value="To FEMB Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="990" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-65" value="Data From FEMB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="1440" as="sourcePoint" />
+            <mxPoint x="1240" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#67AB9F;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="1099.5" as="sourcePoint" />
+            <mxPoint x="1240" y="1099.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rurXwxzGvPPVLSdpdCYD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#67AB9F;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="940" as="sourcePoint" />
+            <mxPoint x="1240" y="940" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
