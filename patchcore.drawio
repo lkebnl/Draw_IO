@@ -4,8 +4,65 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5vLnplIE9Mj8sz0uVBSE-1" value="Input (224 * 224 * 3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-1" value="Input (224 * 224 * 3)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-2" value="Conv1: [56 x 56 x 64]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-3" value="Block1: [56 x 56 x 64]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-4" target="5vLnplIE9Mj8sz0uVBSE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-4" value="Block2: [28 x 28 x 128]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-5" target="5vLnplIE9Mj8sz0uVBSE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-5" value="Block3: [14 x 14 x 256]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-6" value="Block4: [7 x 7 x 512]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-7" value="Global AvgPool [1 x 1 x 512]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-8" target="5vLnplIE9Mj8sz0uVBSE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-8" value="Model Catch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-9" target="5vLnplIE9Mj8sz0uVBSE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-9" value="Model Catch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-12" target="5vLnplIE9Mj8sz0uVBSE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-12" value="Upsample --&amp;gt; [28 x 28 x 256]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-16" target="5vLnplIE9Mj8sz0uVBSE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-16" value="Memory Bank M" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vLnplIE9Mj8sz0uVBSE-17" target="5vLnplIE9Mj8sz0uVBSE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-17" value="Coreset Subsampling" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vLnplIE9Mj8sz0uVBSE-18" value="Reduced Memory Bank" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
