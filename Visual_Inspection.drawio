@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="5Wq4rCirBcs_7Kx6MRLl">
-    <mxGraphModel>
+    <mxGraphModel dx="1639" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HaeFooOfq4on6CiuENx2-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaeFooOfq4on6CiuENx2-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaeFooOfq4on6CiuENx2-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HaeFooOfq4on6CiuENx2-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HaeFooOfq4on6CiuENx2-5" value="x 20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
