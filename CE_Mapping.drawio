@@ -621,6 +621,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="B8Wefhbz6VuyX5IJB7NE-261" value="16 Ch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
